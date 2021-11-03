@@ -50,14 +50,15 @@ source ~/.flask-ml-azure/bin/activate
 
 You will see this output:
 
-![4-deployed-app](https://user-images.githubusercontent.com/58792/89557343-a8088c00-d7e0-11ea-891c-4d88333b8097.png)
+![4-deployed-app](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main/Screen%20Shot%202021-11-03%20at%202.01.43%20PM.png)
 
 5.  Verify Machine Learning predictions work
 
 Change the line in `make_predict_azure_app.sh` to match the deployed prediction
 `-X POST https://<yourappname>.azurewebsites.net:$PORT/predict `
 
-![5-successful-prediction](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main/Screen%20Shot%202021-11-03%20at%202.01.43%20PM.png)
+![5-successful-prediction](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/beda2e8b8424e2a3b0e084479b26f8403e671378/Screen%20Shot%202021-11-02%20at%2012.19.15%20PM.png)
+
 
 6. [Create an Azure DevOps project and connect to Azure, (as official documentation describes)](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops)
 
