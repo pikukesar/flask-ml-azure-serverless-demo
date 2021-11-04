@@ -2,9 +2,18 @@
 
 ## adding small change in readme to test commit
 
-Deploy Flask Machine Learning Application on Azure App Services
+![Project Management Tempalate](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/eddd1d5fb6cf16e85de1f2c71dd546b7fcbe1b2c/Screen%20Shot%202021-11-04%20at%204.52.25%20PM.png)
+
+![trello link](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main/Screen%20Shot%202021-11-04%20at%204.56.21%20PM.png)
+
+https://trello.com/b/WEuIlu5q/project-management
+
+GitHub Link to demonstrate cloning the project from GitHub repo and then pushing any small change via azure cloud shell to trigger the GitHub Actions build and Azure Devops Pipeline. ![Other artifacts like screen and youtube included see README](https://github.com/pikukesar/azurepython2)
 
 
+## Deploy Flask Machine Learning Application on Azure App Services that gives Boston Housing prediction
+
+![continuous-delivery](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/038ee232df94a4ba257a695f28417e3c52b7cc84/Screen%20Shot%202021-11-04%20at%204.37.21%20PM.png)
 
 ## To run it locally follow these steps
 
@@ -93,6 +102,10 @@ yml file: (https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main
 ```
 
 You can watch this [YouTube Walkthrough of this process](https://youtu.be/Vpb7TqvzxnE)
+
+How to improve the project in the future : Currectly the application works on a small data set which can be expanded to bigger data set or by caling service.
+The application can be Integrated with other graphing softwares like tableau to give better visual rendering.
+
 
 
 
