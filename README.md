@@ -8,7 +8,7 @@
 
 https://trello.com/b/WEuIlu5q/project-management
 
-GitHub Link to demonstrate cloning the project from GitHub repo and then pushing any small change via azure cloud shell to trigger the GitHub Actions build and Azure Devops Pipeline. ![Other artifacts like screen and youtube included see README](https://github.com/pikukesar/azurepython2)
+GitHub Link to demonstrate cloning the project from GitHub repo and then pushing any small change via azure cloud shell to trigger the GitHub Actions build and Azure Devops Pipeline. [Git repo](https://github.com/pikukesar/azurepython2)
 
 
 ## Deploy Flask Machine Learning Application on Azure App Services that gives Boston Housing prediction
