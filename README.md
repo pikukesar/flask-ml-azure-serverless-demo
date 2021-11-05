@@ -80,17 +80,6 @@ yml file: (https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main
 10.  Verify Continuous Delivery of Azure Pipelines by changing `app.py`
 
 
-11.  Add a lint step (this gates your code against syntax failure)
-
-```
-    - script: |
-        python -m venv antenv
-        source antenv/bin/activate
-        make install
-        make lint
-      workingDirectory: $(projectRoot)
-      displayName: 'Run lint tests'
-```
 
 You can watch this [YouTube Walkthrough of this process](https://youtu.be/Vpb7TqvzxnE)
 
