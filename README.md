@@ -15,20 +15,6 @@ GitHub Link to demonstrate cloning the project from GitHub repo and then pushing
 
 ![continuous-delivery](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/038ee232df94a4ba257a695f28417e3c52b7cc84/Screen%20Shot%202021-11-04%20at%204.37.21%20PM.png)
 
-## To run it locally follow these steps
-
-1.  Create virtual environment and source
-
-```bash
-python3 -m venv ~/.flask-ml-azure
-source ~/.flask-ml-azure/bin/activate
-```
-
-2.  Run `make install`
-
-3.  Run `python app.py`
-
-4.  In a separate shell run: `./make_prediction.sh`
 
 ## To run it in Azure Pipelines
 
