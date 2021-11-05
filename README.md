@@ -1,6 +1,6 @@
-# flask-ml-azure-serverless
+# flask-ml-azure-serverless-demo
 
-## adding small change in readme to test commit
+adding small change in readme to test commit
 
 ![Project Management Tempalate](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/da677bae432b76ea6bda1d3eb75544939db60f87/Screen%20Shot%202021-11-05%20at%2011.24.59%20AM.png)
 
