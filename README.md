@@ -36,6 +36,7 @@ source ~/.flask-ml-azure/bin/activate
 ```
 
 2.  Run `make install`
+![make install](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main/Demo%202%20Make%20Install.png)
 
 3.  Create an app service and initially deploy your app in Cloud Shell
 
