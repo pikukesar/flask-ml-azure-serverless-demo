@@ -2,9 +2,9 @@
 
 adding small change in readme to test commit
 
-![Project Management Tempalate](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/da677bae432b76ea6bda1d3eb75544939db60f87/Screen%20Shot%202021-11-05%20at%2011.24.59%20AM.png)
+![Project Management Tempalate](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/92b2885122102fc7b6a1d6cb21f748e16737b521/Screen%20Shot%202021-11-06%20at%2012.24.46%20PM.png)
 
-Link to the template:https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/da677bae432b76ea6bda1d3eb75544939db60f87/Project%20Management%20Template.xlsx
+Link to the template:https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/92b2885122102fc7b6a1d6cb21f748e16737b521/Project%20Management%20Template%20(1).xlsx
 
 ![trello link](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main/Screen%20Shot%202021-11-04%20at%204.56.21%20PM.png)
 
