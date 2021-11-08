@@ -59,6 +59,11 @@ Change the line in `make_predict_azure_app.sh` to match the deployed prediction
 
 ![5-successful-prediction](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/beda2e8b8424e2a3b0e084479b26f8403e671378/Screen%20Shot%202021-11-02%20at%2012.19.15%20PM.png)
 
+Locust load test against deployed Application
+
+![Locust Load app](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main/Screen%20Shot%202021-11-08%20at%2010.37.45%20AM.png)
+![Locust Load test](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main/Screen%20Shot%202021-11-08%20at%2010.40.14%20AM.png)
+
 
 6. [Create an Azure DevOps project and connect to Azure, (as official documentation describes)](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops)
 
