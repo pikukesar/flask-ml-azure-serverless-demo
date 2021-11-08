@@ -85,6 +85,9 @@ yml file: (https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main
 10.  Verify Continuous Delivery of Azure Pipelines by changing `app.py`
 
 
+Running Azure pipeline
+
+![Running Azure pipeline](https://github.com/pikukesar/flask-ml-azure-serverless-demo/blob/main/Screen%20Shot%202021-11-08%20at%2011.37.48%20AM.png)
 
 You can watch this [YouTube Walkthrough of this process](https://youtu.be/Vpb7TqvzxnE)
 
